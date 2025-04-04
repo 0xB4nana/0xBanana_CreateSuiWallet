@@ -4,3 +4,7 @@ Tools tạo hàng loạt ví SUI, xuất ra excel bao gồm các trường 12 se
 Bước 2:
 - Dùng lệnh  để chạy:<p>
 ```node main.js```
+
+Thông tin liên hệ:
+Telegram : https://t.me/B4naana
+groupTele: https://t.me/OoirMitsGroup
